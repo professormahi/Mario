@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/PreFix">
+        <file>Soureces/baseWall.bmp</file>
+        <file>Soureces/bird.bmp</file>
+        <file>Soureces/brick.bmp</file>
+        <file>Soureces/castle.bmp</file>
+        <file>Soureces/cloud.bmp</file>
+        <file>Soureces/enemy.bmp</file>
+        <file>Soureces/enemy1.png</file>
+        <file>Soureces/hill.bmp</file>
+        <file>Soureces/image.png</file>
+        <file>Soureces/newbase.bmp</file>
+        <file>Soureces/owl.bmp</file>
+        <file>Soureces/owl (copy).bmp</file>
+        <file>Soureces/pipe.bmp</file>
+        <file>Soureces/Sky.png</file>
+        <file>Soureces/coin.jpg</file>
+        <file>Soureces/Coin.png</file>
+        <file>Soureces/MarioBack.png</file>
+        <file>Soureces/Mario.png</file>
+        <file>Soureces/CoinBox.png</file>
+        <file>Soureces/Block.bmp</file>
+    </qresource>
+</RCC>
